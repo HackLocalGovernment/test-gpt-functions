@@ -1,5 +1,4 @@
 import 'dotenv/config';
-import _  from 'lodash';
 import { logger } from '@hughescr/logger';
 import readline from 'node:readline/promises';
 import { stdin as input, stdout as output } from 'node:process';
